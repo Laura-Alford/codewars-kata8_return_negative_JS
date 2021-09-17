@@ -1,0 +1,1 @@
+# codewars-kata8_return_negative_JS
